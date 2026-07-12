@@ -1,0 +1,11 @@
+ID: snake-game
+_schema-version: "3.1"
+version: 1.0.0
+modules:
+  - name: snake-game
+    type: html5
+    path: .
+    parameters:
+      memory: 64M
+      disk-quota: 256M
+resources: []
