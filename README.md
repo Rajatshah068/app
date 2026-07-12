@@ -8,7 +8,7 @@ High score persists in the browser via `localStorage`.
 
 Just open `index.html` in a browser, or serve it:
 
-comment
+commentdcndlcndcldc
 
 ```bash
 python3 -m http.server 8080
